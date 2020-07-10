@@ -1,0 +1,3413 @@
+{
+  "intents": [
+    {
+      "intent": "COVID_Masks_Protection",
+      "examples": [
+        {
+          "text": "Will a respirator help me?"
+        },
+        {
+          "text": "When should I wear a respirator?"
+        },
+        {
+          "text": "When should I wear a mask?"
+        },
+        {
+          "text": "What is a cloth face covering and how does it help?"
+        },
+        {
+          "text": "should I wear a respirator?"
+        },
+        {
+          "text": "Should I wear a mask so I don't get infected?"
+        },
+        {
+          "text": "Should I wear a mask or a respirator?"
+        },
+        {
+          "text": "Should I have something on my face when I go out?"
+        },
+        {
+          "text": "Should I cover my face in public?"
+        },
+        {
+          "text": "Should I buy a respirator?"
+        },
+        {
+          "text": "I often travel by public transport. Should I wear a respirator?"
+        },
+        {
+          "text": "Does the government recommend wearing masks?"
+        },
+        {
+          "text": "Does the CDC say to cover your face?"
+        },
+        {
+          "text": "Does a mask or respirator help prevent covid infection?"
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "Am I supposed to wear a face covering?"
+        },
+        {
+          "text": "Can a mask help me?"
+        },
+        {
+          "text": "Can I go out without a respirator?"
+        },
+        {
+          "text": "Do I have to wear a mask when I'm outside or taking a walk?"
+        },
+        {
+          "text": "Do I have to wear a respirator?"
+        }
+      ],
+      "description": "Explaining how masks can protect."
+    },
+    {
+      "intent": "barley",
+      "examples": [
+        {
+          "text": "barley"
+        },
+        {
+          "text": "barley crop"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Farmers_Name",
+      "examples": [
+        {
+          "text": "Who are the farmers"
+        },
+        {
+          "text": "how many farmers"
+        },
+        {
+          "text": "farmers available"
+        },
+        {
+          "text": "name of farmer"
+        },
+        {
+          "text": "farmer names"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Quarantine",
+      "examples": [
+        {
+          "text": "Who is responsible for quarantined people?"
+        },
+        {
+          "text": "What should I do in quarantine?"
+        },
+        {
+          "text": "What should I do if I have been quarantined?"
+        },
+        {
+          "text": "What if I break quarantine?"
+        },
+        {
+          "text": "What exactly is home quarantine?"
+        },
+        {
+          "text": "What can I do when I'm in quarantine?"
+        },
+        {
+          "text": "Is anyone checking for compliance with those ordered to quarantine?"
+        },
+        {
+          "text": "If infected, how long should individuals self-quarantine?"
+        },
+        {
+          "text": "if i have symptoms, how long should i quarantine for?"
+        },
+        {
+          "text": "A colleague is breaking quarantine what should I do?"
+        },
+        {
+          "text": "If I have Covid how long do I have to self isolate"
+        },
+        {
+          "text": "how long will we have to self quarantine?"
+        },
+        {
+          "text": "How long should you self-quarantine?"
+        },
+        {
+          "text": "How long should I quarantine?"
+        },
+        {
+          "text": "How long should I be in quarantine?"
+        },
+        {
+          "text": "How long does it take to quarantine?"
+        },
+        {
+          "text": "How long do I have to stay in quarantine?"
+        },
+        {
+          "text": "How long do I have to self isolate if I have tested positive?"
+        },
+        {
+          "text": "How long do I have to be stuck at home?"
+        },
+        {
+          "text": "How does Quarantine work?"
+        },
+        {
+          "text": "Are people in quarantine checked?"
+        }
+      ],
+      "description": "Quarantine requirements."
+    },
+    {
+      "intent": "Measures",
+      "examples": [
+        {
+          "text": "measures"
+        },
+        {
+          "text": "key take aways"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "Hello"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "quantity",
+      "examples": [
+        {
+          "text": "What is the quantity"
+        },
+        {
+          "text": "show quantity"
+        },
+        {
+          "text": "How much is produced"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_See_Doctor",
+      "examples": [
+        {
+          "text": "I suspect I have the virus who can I call?"
+        },
+        {
+          "text": "I have a cough but am breathing fine, should I go to the hospital or wait?"
+        },
+        {
+          "text": "I am coughing.  Should I call my doctor?"
+        },
+        {
+          "text": "how do i know whether to go to the doctor?"
+        },
+        {
+          "text": "Do I have to go to the hospital if I get COVID"
+        },
+        {
+          "text": "can I go to the hospital?"
+        },
+        {
+          "text": "When should I go to the hospital?"
+        },
+        {
+          "text": "Where should I go if I suspect I have coronavirus?"
+        },
+        {
+          "text": "Who should I call if I have symptoms?"
+        },
+        {
+          "text": "When should I go to the doctor?"
+        },
+        {
+          "text": "when should I go to a doctor?"
+        },
+        {
+          "text": "when should I call a doctor"
+        },
+        {
+          "text": "When do i call a doctor"
+        },
+        {
+          "text": "when did I need to call the doctor?"
+        },
+        {
+          "text": "Should I see a doctor if I am showing the symptoms?"
+        },
+        {
+          "text": "Should I see a doctor if I am not feeling well?"
+        },
+        {
+          "text": "Should I make an appointment with my Dr?"
+        },
+        {
+          "text": "Should I go to the hospital"
+        },
+        {
+          "text": "should i go to the ER if i have a cough"
+        },
+        {
+          "text": "should i go to the doctor now"
+        },
+        {
+          "text": "If I think I have COVID-19, should I see my Dr?"
+        },
+        {
+          "text": "I'm coughing, should I go to the doctor?"
+        },
+        {
+          "text": "i have a fever. should i go to the hospital?"
+        }
+      ],
+      "description": "Asking if it is possible to see a doctor."
+    },
+    {
+      "intent": "covidlocation",
+      "examples": [
+        {
+          "text": "india locations"
+        },
+        {
+          "text": "states affected"
+        },
+        {
+          "text": "states"
+        },
+        {
+          "text": "covid locations"
+        },
+        {
+          "text": "locations affected"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Treatment_Vaccine",
+      "examples": [
+        {
+          "text": "vaccine for covid"
+        },
+        {
+          "text": "medicines and vaccines for covid-19"
+        },
+        {
+          "text": "Are there any vacines"
+        },
+        {
+          "text": "Are there any medicines"
+        },
+        {
+          "text": "medical"
+        },
+        {
+          "text": "is there a vaccine for Covid-19?"
+        },
+        {
+          "text": "Is there a vaccine for the coronavirus?"
+        },
+        {
+          "text": "Is there a vaccine for this"
+        },
+        {
+          "text": "When can I expect drugs for the virus?"
+        },
+        {
+          "text": "What's the status of a vaccine?"
+        },
+        {
+          "text": "Is there a vaccine?"
+        },
+        {
+          "text": "When will covid-19 medicines be ready?"
+        },
+        {
+          "text": "Why isn't there a vaccine yet?"
+        },
+        {
+          "text": "Covid-19 vaccine?"
+        },
+        {
+          "text": "How long does it take to develop a vaccine?"
+        },
+        {
+          "text": "How long will it be until there is a vaccine?"
+        },
+        {
+          "text": "Is it possible to estimate how long it will take to administer the drug / vaccine to people?"
+        },
+        {
+          "text": "Is the covid vaccine ready?"
+        },
+        {
+          "text": "Is there a covid vaccine?"
+        },
+        {
+          "text": "Is there a cure for covid 19?"
+        },
+        {
+          "text": "Is there a cure for covid-19?"
+        },
+        {
+          "text": "Is there a vaccine for corona virus"
+        },
+        {
+          "text": "Is there a magical cure for covid-19?"
+        },
+        {
+          "text": "Is there a vaccine for coronavirus?"
+        },
+        {
+          "text": "is there a vaccine for covid"
+        },
+        {
+          "text": "Is there a vaccine for Covid-19"
+        },
+        {
+          "text": "medicine for covid"
+        }
+      ],
+      "description": "Questions about vaccination."
+    },
+    {
+      "intent": "COVID_Description",
+      "examples": [
+        {
+          "text": "where did covid come from?"
+        },
+        {
+          "text": "Where can I learn more about covid?"
+        },
+        {
+          "text": "Where can I find more information about covid 19?"
+        },
+        {
+          "text": "covid what is it"
+        },
+        {
+          "text": "Has the cause of COVID-19 been identified?"
+        },
+        {
+          "text": "How dangerous is this?"
+        },
+        {
+          "text": "I heard about covid what is it?"
+        },
+        {
+          "text": "Is covid a disease?"
+        },
+        {
+          "text": "what is the corona virus?"
+        },
+        {
+          "text": "origin of coronavirus"
+        },
+        {
+          "text": "What does covid stand for?"
+        },
+        {
+          "text": "What is corona virus"
+        },
+        {
+          "text": "what is the coronavirus?"
+        },
+        {
+          "text": "What is Corona virus?"
+        },
+        {
+          "text": "What is covid"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "what is covid-19"
+        },
+        {
+          "text": "What is COVID?"
+        },
+        {
+          "text": "what is covid19"
+        },
+        {
+          "text": "what is novel coronavirus?"
+        },
+        {
+          "text": "what is the Corona Virus"
+        },
+        {
+          "text": "corona"
+        },
+        {
+          "text": "corona virus"
+        },
+        {
+          "text": "Where did the coronavirus come from?"
+        },
+        {
+          "text": "where did corona virus start from?"
+        }
+      ],
+      "description": "Describe Covid-19."
+    },
+    {
+      "intent": "Flood",
+      "examples": [
+        {
+          "text": "When will it rain"
+        },
+        {
+          "text": "Do we have a storm coming"
+        },
+        {
+          "text": "flood"
+        },
+        {
+          "text": "when can the floods happen"
+        },
+        {
+          "text": "floods"
+        },
+        {
+          "text": "safety measure for floods"
+        },
+        {
+          "text": "farmers precautions for floods"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Introduce your self"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "COVID_Comparing_Illness",
+      "examples": [
+        {
+          "text": "what's the difference between the flu and coronavirus"
+        },
+        {
+          "text": "What's the difference between flu and coronavirus?"
+        },
+        {
+          "text": "What's the difference between flu and coronavirus"
+        },
+        {
+          "text": "what is the difference between the flu and coronavirus"
+        },
+        {
+          "text": "what is the difference between flu and coronavirus"
+        },
+        {
+          "text": "is this the same as the flu?"
+        },
+        {
+          "text": "Flu vs Coronavirus"
+        },
+        {
+          "text": "flu vs covid19"
+        },
+        {
+          "text": "Flu vs. COVID-19"
+        },
+        {
+          "text": "How do flu symptoms differ from coronavirus symptoms?"
+        },
+        {
+          "text": "how does cover-19 compare to the SARS epidemic?"
+        },
+        {
+          "text": "How is corona virus different than SARS?"
+        },
+        {
+          "text": "How is flu different from coronavirus"
+        },
+        {
+          "text": "is this worse than flu"
+        },
+        {
+          "text": "is this worse than flue"
+        },
+        {
+          "text": "Is this worse than the flu?"
+        },
+        {
+          "text": "how is the flue different from the coronavirus?"
+        },
+        {
+          "text": "How's the flu different from coronavirus?"
+        },
+        {
+          "text": "is covid the same as the flu?"
+        },
+        {
+          "text": "Is the coronavirus the same as a cold?"
+        },
+        {
+          "text": "Is the coronavirus the same as MERS?"
+        },
+        {
+          "text": "Is the coronavirus the same as SARS?"
+        },
+        {
+          "text": "What is the difference between COVID-19 and the flu"
+        },
+        {
+          "text": "What is different between flu and coronavirus"
+        },
+        {
+          "text": "SARS vs Corona virus?"
+        }
+      ],
+      "description": "Comparing Covid to other illnesses."
+    },
+    {
+      "intent": "COVID_Testing_Locations",
+      "examples": [
+        {
+          "text": "where can I get a coronavirus test"
+        },
+        {
+          "text": "where can I be tested"
+        },
+        {
+          "text": "testing spots for coronavirus?"
+        },
+        {
+          "text": "testing locations?"
+        },
+        {
+          "text": "set an appointment for covid testing"
+        },
+        {
+          "text": "None of those sound like they cover how to get tested. Can you tell me how/where I can get tested?"
+        },
+        {
+          "text": "I want to test myself for coronavirus soon"
+        },
+        {
+          "text": "I want to make an appointment for testing"
+        },
+        {
+          "text": "I want to get tested for covid soon"
+        },
+        {
+          "text": "I want to be tested for covid-19"
+        },
+        {
+          "text": "I want a test for coronavirus"
+        },
+        {
+          "text": "I want a coronavirus test"
+        },
+        {
+          "text": "I need to get tested, where can I go?"
+        },
+        {
+          "text": "I need to be checked for covid 19."
+        },
+        {
+          "text": "I live in Ontario, where can I get tested?"
+        },
+        {
+          "text": "I live in Austin, where can I get tested for Covid-19"
+        },
+        {
+          "text": "i have symptoms. where can i get tested?"
+        },
+        {
+          "text": "i am in new york where should i get tested"
+        },
+        {
+          "text": "how do you test"
+        },
+        {
+          "text": "How do I get tested?"
+        },
+        {
+          "text": "how do I get screened?"
+        },
+        {
+          "text": "Can I get tested at my doctor's?"
+        },
+        {
+          "text": "Who do I contact if I want to get tested for covid 19 infection?"
+        },
+        {
+          "text": "where should I go to get screened"
+        },
+        {
+          "text": "where I can get tested"
+        },
+        {
+          "text": "Where do I go for COVID19 testing?"
+        },
+        {
+          "text": "where do I get a test"
+        },
+        {
+          "text": "where can i get tested"
+        },
+        {
+          "text": "Where can I test"
+        },
+        {
+          "text": "where can I order a coronavirus test"
+        },
+        {
+          "text": "Where can I go to get tested for COVID?"
+        },
+        {
+          "text": "where can I get tested in new mexico"
+        },
+        {
+          "text": "where can I get tested in Houston?"
+        },
+        {
+          "text": "where can I get tested in alabama"
+        },
+        {
+          "text": "where can I get tested for the coronavirus in New York"
+        },
+        {
+          "text": "Where can I get tested for cover-19"
+        },
+        {
+          "text": "Where can I get tested for coronavirus?"
+        },
+        {
+          "text": "where can i get tested for coronavirus"
+        },
+        {
+          "text": "Where can I get tested for Corona?"
+        },
+        {
+          "text": "where can i get screened?"
+        },
+        {
+          "text": "where can I get a test?"
+        },
+        {
+          "text": "where can I get a test kit"
+        },
+        {
+          "text": "where can I get a test done?"
+        },
+        {
+          "text": "where can I get a test done"
+        },
+        {
+          "text": "where can i get a test"
+        },
+        {
+          "text": "Where can I get a COVID-19 test?"
+        },
+        {
+          "text": "can you direct me to the nearest test center"
+        },
+        {
+          "text": "Can I get tested at Walgreens?"
+        },
+        {
+          "text": "Can I test myself at my house?"
+        },
+        {
+          "text": "how do i get a test?"
+        },
+        {
+          "text": "how do I get a coronavirus test?"
+        },
+        {
+          "text": "how can i get screened"
+        },
+        {
+          "text": "How can I get a test"
+        },
+        {
+          "text": "How can I get a coronavirus test?"
+        }
+      ],
+      "description": "Where to get tested."
+    },
+    {
+      "intent": "Wheat",
+      "examples": [
+        {
+          "text": "wheat crop"
+        },
+        {
+          "text": "steps for wheat"
+        },
+        {
+          "text": "Wheat"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Masks_Availability",
+      "examples": [
+        {
+          "text": "When can I buy a mask?"
+        },
+        {
+          "text": "Why can't I get or find a mask or a respirator anywhere?"
+        },
+        {
+          "text": "Why aren't there respirators?"
+        },
+        {
+          "text": "Why aren't there enough masks and respirators?"
+        },
+        {
+          "text": "why aren't any masks available?"
+        },
+        {
+          "text": "Why are there no masks and respirators in pharmacies?"
+        },
+        {
+          "text": "Why are no masks or respirators available anywhere?"
+        },
+        {
+          "text": "Who has masks and respirators?"
+        },
+        {
+          "text": "Where do people get protective masks or disinfectants?"
+        },
+        {
+          "text": "Where can I get masks?"
+        },
+        {
+          "text": "Where are face masks available?"
+        },
+        {
+          "text": "When will respirators and masks be finally sold?"
+        },
+        {
+          "text": "When will masks be available?"
+        },
+        {
+          "text": "When will masks be available at retail stores? They are not yet and we can get infected on public transport before they are."
+        },
+        {
+          "text": "When can I buy a mask at a pharmacy?"
+        },
+        {
+          "text": "I'd like a respirator"
+        },
+        {
+          "text": "How is it possible that the state does not have enough masks and respirators?"
+        },
+        {
+          "text": "How can I get a mask?"
+        },
+        {
+          "text": "Help me get a respirator"
+        },
+        {
+          "text": "Are there stores with protective face masks?"
+        }
+      ],
+      "description": "Availability of masks."
+    },
+    {
+      "intent": "croptype",
+      "examples": [
+        {
+          "text": "show the crops"
+        },
+        {
+          "text": "What are the crop type ?"
+        },
+        {
+          "text": "crop types"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Travel_Restrictions",
+      "examples": [
+        {
+          "text": "Do I need a doctor's note to travel?"
+        },
+        {
+          "text": "do i need to stay home"
+        },
+        {
+          "text": "I just travelled. What do I do?"
+        },
+        {
+          "text": "I traveled to Italy recently. What do I do?"
+        },
+        {
+          "text": "Is commercial air travel suspended too?"
+        },
+        {
+          "text": "Is driving considered travel?"
+        },
+        {
+          "text": "Is it safe to fly to Seattle?"
+        },
+        {
+          "text": "Should I cancel my flight to Denver?"
+        },
+        {
+          "text": "Should I change my travel plans?"
+        },
+        {
+          "text": "should i travel?"
+        },
+        {
+          "text": "What counts as travel?"
+        },
+        {
+          "text": "can I travel to Arkansas"
+        },
+        {
+          "text": "Can I travel out of the country?"
+        },
+        {
+          "text": "Can I travel in the current emergency situation?"
+        },
+        {
+          "text": "Can I travel for work?"
+        },
+        {
+          "text": "Are there any travel restrictions in place yet?"
+        },
+        {
+          "text": "Can I travel?"
+        },
+        {
+          "text": "airline travel"
+        },
+        {
+          "text": "Can I visit relatives in another state?"
+        },
+        {
+          "text": "What if I urgently need to take a flight?"
+        }
+      ],
+      "description": "Status of travel restrictions."
+    },
+    {
+      "intent": "COVID_Case_Count",
+      "examples": [
+        {
+          "text": "How many people have the virus in our county"
+        },
+        {
+          "text": "what is the count of coronavirus infected people?"
+        },
+        {
+          "text": "Does the US have a confirmed COVID case?"
+        },
+        {
+          "text": "has anyone died of coronavirus in my state?"
+        },
+        {
+          "text": "How has coronavirus spread around the world?"
+        },
+        {
+          "text": "How many cases of the virus are there in the world?"
+        },
+        {
+          "text": "How many coronavirus cases are there in my area?"
+        },
+        {
+          "text": "how many patients are infected with corona virus in collin county"
+        },
+        {
+          "text": "how many people are infected"
+        },
+        {
+          "text": "How many people are infected with Corona virus currently in texas?"
+        },
+        {
+          "text": "how many people have the virus?"
+        },
+        {
+          "text": "Where can I find information about covid 19 for the world?"
+        },
+        {
+          "text": "Where are cases?"
+        },
+        {
+          "text": "covid number in my state?"
+        },
+        {
+          "text": "is anyone near me sick"
+        },
+        {
+          "text": "How many people total have coronavirus?"
+        },
+        {
+          "text": "How many people in the world have died?"
+        },
+        {
+          "text": "are people infected in my city ?"
+        },
+        {
+          "text": "Are there any cases near me"
+        },
+        {
+          "text": "Highest cases"
+        },
+        {
+          "text": "Number of cases"
+        },
+        {
+          "text": "no of cases"
+        },
+        {
+          "text": "2nd highest cases"
+        },
+        {
+          "text": "India count"
+        }
+      ],
+      "description": "Number of cases nearby."
+    },
+    {
+      "intent": "COVID_Testing_Information",
+      "examples": [
+        {
+          "text": "Is it possible to test for covid 19 during the incubation period?"
+        },
+        {
+          "text": "Is the covid test able to detect infection even during the incubation period?"
+        },
+        {
+          "text": "is there a coronavirus test kit"
+        },
+        {
+          "text": "ok - I've got enough of those that I think I need to get tested."
+        },
+        {
+          "text": "my friend has it should i get tested"
+        },
+        {
+          "text": "is there test kit for coronavirus"
+        },
+        {
+          "text": "Is there a test kit for the coronavirus?"
+        },
+        {
+          "text": "testing travelers?"
+        },
+        {
+          "text": "What is the test to detect covid 19?"
+        },
+        {
+          "text": "When is the coronavirus test able to detect the disease?"
+        },
+        {
+          "text": "Can I get tested at home?"
+        },
+        {
+          "text": "can I get tested quickly?"
+        },
+        {
+          "text": "Can I test myself?"
+        },
+        {
+          "text": "is there a test kit for coronavirus"
+        },
+        {
+          "text": "Should we get tested if we only have symptoms"
+        },
+        {
+          "text": "Is there a test for the coronavirus"
+        },
+        {
+          "text": "should i get tested if I do not have symptoms but think I've been exposed?"
+        },
+        {
+          "text": "coronavirus test kit"
+        },
+        {
+          "text": "do i need to get tested?"
+        },
+        {
+          "text": "I have a fever, should I get tested?"
+        },
+        {
+          "text": "I have symptoms. Should I get tested?"
+        },
+        {
+          "text": "Is it possible to detect the disease during the incubation period?"
+        }
+      ],
+      "description": "General questions about testing."
+    },
+    {
+      "intent": "sustainability",
+      "examples": [
+        {
+          "text": "how to deal with sustainability"
+        },
+        {
+          "text": "what is sustainability"
+        },
+        {
+          "text": "agriculture sustainability"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "land",
+      "examples": [
+        {
+          "text": "land size"
+        },
+        {
+          "text": "how much land is available ?"
+        },
+        {
+          "text": "What is the land size"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "corona_prevention",
+      "examples": [
+        {
+          "text": "precautions of covid"
+        },
+        {
+          "text": "covid preventions"
+        },
+        {
+          "text": "covid precautions"
+        },
+        {
+          "text": "corona precautions"
+        },
+        {
+          "text": "precautions of corona"
+        }
+      ],
+      "description": "Are there any medicines"
+    },
+    {
+      "intent": "benefits_sustainable",
+      "examples": [
+        {
+          "text": "why to follow agriculture sustainability"
+        },
+        {
+          "text": "benefits of agri"
+        },
+        {
+          "text": "benefits of agri sustain"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Unemployment_Application",
+      "examples": [
+        {
+          "text": "what can I do if I lose my job?"
+        },
+        {
+          "text": "If I got furloughed, do I qualify for unemployment?"
+        },
+        {
+          "text": "helping locals"
+        },
+        {
+          "text": "helping comunity"
+        },
+        {
+          "text": "how to help comunity"
+        },
+        {
+          "text": "comunity"
+        },
+        {
+          "text": "neighbours"
+        },
+        {
+          "text": "community"
+        },
+        {
+          "text": "helping hands"
+        },
+        {
+          "text": "i need to apply for unemployment.  how do I do it"
+        },
+        {
+          "text": "I just got laid off, now what?"
+        },
+        {
+          "text": "I have a question about unemployment"
+        },
+        {
+          "text": "i can't go to work.  can i get unemployment?"
+        },
+        {
+          "text": "how to I apply for unemployment"
+        },
+        {
+          "text": "how to apply for unemployment"
+        },
+        {
+          "text": "how long does it take to get unemployment"
+        },
+        {
+          "text": "how long can I get unemployment?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits due to Covid-19?"
+        },
+        {
+          "text": "What do I do if I don't have unemployment insurance?"
+        },
+        {
+          "text": "What happens if I lose my job?"
+        },
+        {
+          "text": "What if I got furloughed?"
+        },
+        {
+          "text": "where can I apply for unemployment"
+        },
+        {
+          "text": "how do I apply for unemployment because of covid-19"
+        },
+        {
+          "text": "how do I apply for unemployment"
+        },
+        {
+          "text": "how can I apply for unemployment?"
+        },
+        {
+          "text": "how can i apply for unemployment during this outbreak?"
+        },
+        {
+          "text": "How am I gonna pay my bills if I don't have a job anymore?"
+        },
+        {
+          "text": "apply for unemployment"
+        },
+        {
+          "text": "what can I do if I lose my job"
+        }
+      ],
+      "description": "How to apply for unemployment."
+    },
+    {
+      "intent": "weather",
+      "examples": [
+        {
+          "text": "What is the normal weather ?"
+        },
+        {
+          "text": "Show the weather"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Rice",
+      "examples": [
+        {
+          "text": "safety measures for rice crop"
+        },
+        {
+          "text": "rice security"
+        },
+        {
+          "text": "rice"
+        },
+        {
+          "text": "security for rice"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "state",
+      "examples": [
+        {
+          "text": "show the states"
+        },
+        {
+          "text": "What are the states ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Prevention",
+      "examples": [
+        {
+          "text": "What should I do to avoid getting sick?"
+        },
+        {
+          "text": "what should i do to contain the spread of the virus"
+        },
+        {
+          "text": "How do I avoid covid-19?"
+        },
+        {
+          "text": "how do I ensure my family is safe?"
+        },
+        {
+          "text": "how do i prevent catching the disease"
+        },
+        {
+          "text": "How do I protect myself?"
+        },
+        {
+          "text": "how do I stay safe"
+        },
+        {
+          "text": "How do you protect yourself?"
+        },
+        {
+          "text": "How to avoid catching covid-19."
+        },
+        {
+          "text": "how to I prevent myself from getting sick?"
+        },
+        {
+          "text": "What should I do to stay safe?"
+        },
+        {
+          "text": "What will help me prevent covid infection?"
+        },
+        {
+          "text": "What’s the best way to prevent coronavirus?"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "How to prevent covid infection?"
+        },
+        {
+          "text": "How to Prevent the Spread of the Virus"
+        },
+        {
+          "text": "What is the most effective prevention?"
+        },
+        {
+          "text": "what is the best way to prevent coronavirus"
+        },
+        {
+          "text": "What is the best prevention?"
+        },
+        {
+          "text": "Is it even possible to avoid the virus?"
+        },
+        {
+          "text": "precautionary measures"
+        },
+        {
+          "text": "What is effective prevention against covid?"
+        },
+        {
+          "text": "what can i do to prevent getting coronavirus?"
+        },
+        {
+          "text": "what can i do to stay safe"
+        },
+        {
+          "text": "what can i do to prevent COIVD?"
+        },
+        {
+          "text": "What can I do to not get sick?"
+        },
+        {
+          "text": "what can I do to avoid getting sick?"
+        },
+        {
+          "text": "What are some good tips for prevention?"
+        },
+        {
+          "text": "Should I avoid people?"
+        },
+        {
+          "text": "prevent the spread of the virus"
+        },
+        {
+          "text": "How can I protect my family from the spread of coronavirus?"
+        },
+        {
+          "text": "How do I avoid Coronavirus"
+        },
+        {
+          "text": "Can I protect myself by drinking alcohol"
+        },
+        {
+          "text": "Does eating garlic help?"
+        },
+        {
+          "text": "Does the sun kill coronavirus?"
+        },
+        {
+          "text": "How can I avoid getting sick?"
+        },
+        {
+          "text": "how can I not get sick"
+        },
+        {
+          "text": "how can i prevent coronavirus"
+        },
+        {
+          "text": "What rules should I follow to prevent covid illness?"
+        }
+      ],
+      "description": "Ways to prevent Covid-19."
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "show"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "how to start"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Shopping_Groceries",
+      "examples": [
+        {
+          "text": "can I still go grocery shopping"
+        },
+        {
+          "text": "Am I allowed to go to the grocery store?"
+        },
+        {
+          "text": "what grocery store in keller is open?"
+        },
+        {
+          "text": "can i go to the store."
+        },
+        {
+          "text": "Can I go to the grocery store?"
+        },
+        {
+          "text": "can I go to the grocery store or will I catch corona"
+        },
+        {
+          "text": "are grocery stores still open"
+        },
+        {
+          "text": "can I go to grocery stores"
+        },
+        {
+          "text": "can i go to the grocery store"
+        },
+        {
+          "text": "can we go to the store?"
+        },
+        {
+          "text": "How should I get groceries?"
+        },
+        {
+          "text": "I am in a high risk group. Can I buy my own food and medicine?"
+        },
+        {
+          "text": "I need medicine. Can I go to the store?"
+        },
+        {
+          "text": "is it ok for me to go to the grocery store"
+        },
+        {
+          "text": "Is it okay to go grocery shopping?"
+        },
+        {
+          "text": "Is it risky to buy food at the store?"
+        },
+        {
+          "text": "Is it safe to go out to buy food and staples?"
+        },
+        {
+          "text": "Is it safe to go to Costco?"
+        },
+        {
+          "text": "Is it safe to go to the grocery store?"
+        },
+        {
+          "text": "Can I still go to the grocery store?"
+        }
+      ],
+      "description": "Status of grocery stores."
+    },
+    {
+      "intent": "FUN_Facts",
+      "examples": [
+        {
+          "text": "some facts"
+        },
+        {
+          "text": "facts for farmers"
+        },
+        {
+          "text": "facts"
+        },
+        {
+          "text": "fun facts"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bye",
+      "examples": [
+        {
+          "text": "ok bye"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "see you"
+        },
+        {
+          "text": "thank you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Discovery",
+      "examples": [
+        {
+          "text": "food security"
+        },
+        {
+          "text": "policy"
+        },
+        {
+          "text": "What is food emergency"
+        },
+        {
+          "text": "impact of covid 19"
+        },
+        {
+          "text": "locusts"
+        },
+        {
+          "text": "nutritions"
+        },
+        {
+          "text": "health"
+        },
+        {
+          "text": "fitness"
+        },
+        {
+          "text": "economic recessions"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Cleaning_Disinfecting",
+      "examples": [
+        {
+          "text": "How should I wash my clothes if I may have been exposed to COVID-19?"
+        },
+        {
+          "text": "How often do I need to clean my home to prevent the spread of coronavirus?"
+        },
+        {
+          "text": "disinfectant products"
+        },
+        {
+          "text": "cleaning products"
+        },
+        {
+          "text": "Are there disinfectants available that can inactivate (kill) COVID-19?"
+        },
+        {
+          "text": "All the stores are out of disinfecting wipes, what do I do?"
+        },
+        {
+          "text": "how do i get rid of germs at my home"
+        },
+        {
+          "text": "Do I have to use bleach to kill coronavirus?"
+        },
+        {
+          "text": "Do I need lysol wipes?"
+        },
+        {
+          "text": "Do I need to disinfect my cell phone when I get home"
+        },
+        {
+          "text": "Does alcohol kill the coronavirus?"
+        },
+        {
+          "text": "How do I clean my home properly?"
+        },
+        {
+          "text": "What is the best way to clean?"
+        },
+        {
+          "text": "what cleaning regimen should I follow"
+        },
+        {
+          "text": "What cleaning methods kill the coronavirus?"
+        },
+        {
+          "text": "Should I spray myself or my kids with disinfectant?"
+        },
+        {
+          "text": "Which surfaces are most important to disinfect?"
+        },
+        {
+          "text": "Whats the difference between cleaning and disinfecting?"
+        },
+        {
+          "text": "What kind of disinfectant should I use?"
+        },
+        {
+          "text": "mopping products"
+        },
+        {
+          "text": "is lysol enough to get rid of covid virus from countertops"
+        }
+      ],
+      "description": "How to clean and disinfect."
+    },
+    {
+      "intent": "COVID_Illness_Length",
+      "examples": [
+        {
+          "text": "How long before I get symptoms?"
+        },
+        {
+          "text": "how long can I expect to be sick?"
+        },
+        {
+          "text": "How long do I need to quarantine before I no longer can transmit the virus?"
+        },
+        {
+          "text": "how long do symptoms take to develop?"
+        },
+        {
+          "text": "how long does coronavirus last"
+        },
+        {
+          "text": "How long does COVID-19 last?"
+        },
+        {
+          "text": "how long does it last"
+        },
+        {
+          "text": "how long does it last?"
+        },
+        {
+          "text": "how long does it take for the virus to run through my system?"
+        },
+        {
+          "text": "how long does the corona virus last?"
+        },
+        {
+          "text": "Incubation period of coronavirus?"
+        },
+        {
+          "text": "How long will I feel terrible?"
+        },
+        {
+          "text": "How long is the incubation period?"
+        },
+        {
+          "text": "How long is the incubation period of covid 19?"
+        },
+        {
+          "text": "how long is the incubation period for covid-19"
+        },
+        {
+          "text": "how long does the virus last?"
+        },
+        {
+          "text": "how long does the virus last"
+        },
+        {
+          "text": "How long does the disease last?"
+        },
+        {
+          "text": "How long does the coronavirus last?"
+        },
+        {
+          "text": "What is the incubation period of covid?"
+        },
+        {
+          "text": "How long before I experience covid-19 symptoms?"
+        },
+        {
+          "text": "How long are people infected with COVID-19 before they are symptomatic?"
+        }
+      ],
+      "description": "How long Covid lasts."
+    },
+    {
+      "intent": "COVID_Event_Shutdowns",
+      "examples": [
+        {
+          "text": "When will the NCAA championships be held?"
+        },
+        {
+          "text": "When will the major sports leagues start playing again?"
+        },
+        {
+          "text": "When are sports going to start back up?"
+        },
+        {
+          "text": "What sports are being cancelled?"
+        },
+        {
+          "text": "What is the maximum number of people allowed to meet right now?"
+        },
+        {
+          "text": "Should I feel safe going to the movies?"
+        },
+        {
+          "text": "public events cancelled"
+        },
+        {
+          "text": "Is it okay to partake in sports activities?"
+        },
+        {
+          "text": "How do I know if my concert is cancelled?"
+        },
+        {
+          "text": "events and large gatherings"
+        },
+        {
+          "text": "event shutdowns"
+        },
+        {
+          "text": "can my church still meet"
+        },
+        {
+          "text": "can I still attend a conference"
+        },
+        {
+          "text": "can i go to church"
+        },
+        {
+          "text": "Are the museums closed?"
+        },
+        {
+          "text": "Are groups of people allowed to meet?"
+        },
+        {
+          "text": "Are events being shut down?"
+        },
+        {
+          "text": "Are churches closed"
+        },
+        {
+          "text": "Will I get a refund for a ticket I purchased?"
+        },
+        {
+          "text": "Why is the government shutting down my event?"
+        },
+        {
+          "text": "When will the NHL return?"
+        }
+      ],
+      "description": "Event shutdowns and business closures."
+    },
+    {
+      "intent": "agriculture_practices",
+      "examples": [
+        {
+          "text": "sustainability practices"
+        },
+        {
+          "text": "agriculture practices"
+        },
+        {
+          "text": "what are some agriculture practices"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Transmission",
+      "examples": [
+        {
+          "text": "how does the virus spread"
+        },
+        {
+          "text": "How would I get covid?"
+        },
+        {
+          "text": "is covid19 contagious?"
+        },
+        {
+          "text": "is it contagious"
+        },
+        {
+          "text": "Is it possible to get infected from the infected person the next day?"
+        },
+        {
+          "text": "number of infected"
+        },
+        {
+          "text": "spreading covid to others"
+        },
+        {
+          "text": "When does a person become contagious?"
+        },
+        {
+          "text": "does the virus spread thru surfaces"
+        },
+        {
+          "text": "how can covid be transmitted"
+        },
+        {
+          "text": "How can I get infected?"
+        },
+        {
+          "text": "How contagious is COVID-19?"
+        },
+        {
+          "text": "How do I catch the virus?"
+        },
+        {
+          "text": "how does coronavirus spread?"
+        },
+        {
+          "text": "how does covid spread"
+        },
+        {
+          "text": "How does covid spread?"
+        },
+        {
+          "text": "how does covid-19 spread"
+        },
+        {
+          "text": "how does covid-19 spread to others"
+        },
+        {
+          "text": "How does the infection spread"
+        },
+        {
+          "text": "Is Coronavirus contagious?"
+        },
+        {
+          "text": "is covid transmissible from animals?"
+        },
+        {
+          "text": "How is COVID-19 spread?"
+        },
+        {
+          "text": "how many people are infected in the United States"
+        },
+        {
+          "text": "How is covid transmitted?"
+        },
+        {
+          "text": "is covid-19 contagious?"
+        },
+        {
+          "text": "How would I catch it?"
+        }
+      ],
+      "description": "How Covid-19 is transmitted."
+    },
+    {
+      "intent": "COVID_School_shutdown",
+      "examples": [
+        {
+          "text": "where can my kids go back to school"
+        },
+        {
+          "text": "Will classes be moved to summer?"
+        },
+        {
+          "text": "Will graduations be pushed back?"
+        },
+        {
+          "text": "when can kids return to school"
+        },
+        {
+          "text": "when can kid go back to school"
+        },
+        {
+          "text": "when can i send my kids back to school"
+        },
+        {
+          "text": "Will students still graduate this year?"
+        },
+        {
+          "text": "Will there be exams in the summer?"
+        },
+        {
+          "text": "Will there be school in the summer?"
+        },
+        {
+          "text": "are schools closed ?"
+        },
+        {
+          "text": "are schools closed"
+        },
+        {
+          "text": "are my schools closed?"
+        },
+        {
+          "text": "Are my schools closed"
+        },
+        {
+          "text": "Are my children's schools closed?"
+        },
+        {
+          "text": "ARE COLLEGES OPEN"
+        },
+        {
+          "text": "when can my high school senior go back to school"
+        },
+        {
+          "text": "when can my kid go back school"
+        },
+        {
+          "text": "when can my kid go back to high school"
+        },
+        {
+          "text": "When can I return to school?"
+        },
+        {
+          "text": "what schools are closed"
+        },
+        {
+          "text": "What happens after the ordered three-week closure period ends?"
+        },
+        {
+          "text": "What does the ordered school closure mean for report cards?"
+        },
+        {
+          "text": "Should my child stay home from school?"
+        },
+        {
+          "text": "is the school closed"
+        },
+        {
+          "text": "Is my school closed?"
+        },
+        {
+          "text": "is my school closed"
+        },
+        {
+          "text": "Is my kids school closed?"
+        },
+        {
+          "text": "is my kids school closed"
+        },
+        {
+          "text": "Is HS 123 open?"
+        },
+        {
+          "text": "Is graduation delayed?"
+        },
+        {
+          "text": "I live in 78709. when will my kids high school reopen?"
+        },
+        {
+          "text": "How will the shutdown impact my child's attendance records?"
+        },
+        {
+          "text": "How can I get the latest news on my school closure?"
+        },
+        {
+          "text": "can my kids return to high school"
+        },
+        {
+          "text": "Can my child go to school?"
+        },
+        {
+          "text": "Are schools shut down?"
+        },
+        {
+          "text": "Are schools open?"
+        },
+        {
+          "text": "are schools open"
+        },
+        {
+          "text": "are schools in my area closed"
+        },
+        {
+          "text": "are schools closed?"
+        },
+        {
+          "text": "are schools closed in my area"
+        },
+        {
+          "text": "When can my kid go back to college"
+        },
+        {
+          "text": "when can my kid go back to school"
+        },
+        {
+          "text": "when can my kids back school"
+        },
+        {
+          "text": "when can my kids go back to college?"
+        },
+        {
+          "text": "when can my kids go back to high school in 78712"
+        },
+        {
+          "text": "when can my kids go back to school"
+        },
+        {
+          "text": "when do the children go back to school"
+        },
+        {
+          "text": "When does covid vacation end?"
+        },
+        {
+          "text": "When is school back in session?"
+        },
+        {
+          "text": "When will my good go back to school?"
+        },
+        {
+          "text": "When will my kids be back in school?"
+        },
+        {
+          "text": "when will my kids school reopen"
+        },
+        {
+          "text": "When will schools close?"
+        },
+        {
+          "text": "When will the schools open?"
+        },
+        {
+          "text": "Which schools are closed?"
+        }
+      ],
+      "description": "Information on school shutdowns."
+    },
+    {
+      "intent": "COVID_Symptoms",
+      "examples": [
+        {
+          "text": "what is the first symptom"
+        },
+        {
+          "text": "tell me about the symptoms"
+        },
+        {
+          "text": "Symptoms"
+        },
+        {
+          "text": "should I get tested if I have a cough?"
+        },
+        {
+          "text": "rhinitis"
+        },
+        {
+          "text": "my throat hurts and I have a headache as well"
+        },
+        {
+          "text": "my throat and head hurt"
+        },
+        {
+          "text": "My husband has coronavirus symptoms"
+        },
+        {
+          "text": "My girlfriend has symptoms of covid-19"
+        },
+        {
+          "text": "my eyes are burning"
+        },
+        {
+          "text": "My child is coughing. Should I be worried?"
+        },
+        {
+          "text": "my child has a high fever and is coughing. what should I do?"
+        },
+        {
+          "text": "Is rash a symptom of covid-19?"
+        },
+        {
+          "text": "Is a headache a symptom of the coronavirus?"
+        },
+        {
+          "text": "If I only have a sore throat is it Coronavirus?"
+        },
+        {
+          "text": "I'm having respiratory problems"
+        },
+        {
+          "text": "I'm afraid I have covid-19"
+        },
+        {
+          "text": "I think i'm infected"
+        },
+        {
+          "text": "I think I might have the virus."
+        },
+        {
+          "text": "I think I have covid 19"
+        },
+        {
+          "text": "I think I feel symptoms of the disease"
+        },
+        {
+          "text": "I have traveled recently. What do I do?"
+        },
+        {
+          "text": "I have sore throat, is it coronavirus?"
+        },
+        {
+          "text": "I have sore throat"
+        },
+        {
+          "text": "I have illness symptoms"
+        },
+        {
+          "text": "I have headache and sore throat, what should I do ?"
+        },
+        {
+          "text": "I have an irritating cough"
+        },
+        {
+          "text": "I have a temperature and cough. Do I have the coronavirus?"
+        },
+        {
+          "text": "i have a sore throat"
+        },
+        {
+          "text": "I have a fever"
+        },
+        {
+          "text": "I have a burning feeling in my chest"
+        },
+        {
+          "text": "I feel congested and have a fever"
+        },
+        {
+          "text": "I can not breath very well"
+        },
+        {
+          "text": "how to distinguish it from a common cold."
+        },
+        {
+          "text": "How do I know if I'm sick with covid-19?"
+        },
+        {
+          "text": "how do I know if i have this thing"
+        },
+        {
+          "text": "how do i know if i have this issue"
+        },
+        {
+          "text": "how do i know if I got this thing"
+        },
+        {
+          "text": "how do i know if i got this"
+        },
+        {
+          "text": "How do I know if I am infected with Covid"
+        },
+        {
+          "text": "how can one know if they have been infected?"
+        },
+        {
+          "text": "Hi what are the symptoms?"
+        },
+        {
+          "text": "do I have covid?"
+        },
+        {
+          "text": "Do I have coronavirus?"
+        },
+        {
+          "text": "am i sick"
+        },
+        {
+          "text": "how do i know if im sick"
+        },
+        {
+          "text": "temperature"
+        },
+        {
+          "text": "Wet cough"
+        },
+        {
+          "text": "what are covid 19 symptoms"
+        },
+        {
+          "text": "what are my symptoms"
+        },
+        {
+          "text": "what are symptoms"
+        },
+        {
+          "text": "what are symptoms of coronavirus"
+        },
+        {
+          "text": "What are symptoms?"
+        },
+        {
+          "text": "what are symtoms?"
+        },
+        {
+          "text": "what are the common symptoms"
+        },
+        {
+          "text": "what are the covid symtoms"
+        },
+        {
+          "text": "what are the COVID-19 symptoms?"
+        },
+        {
+          "text": "what are the early symptoms of covid-19?"
+        },
+        {
+          "text": "What are the first symptoms for COVID?"
+        },
+        {
+          "text": "what are the most common symptoms of COVID?"
+        },
+        {
+          "text": "what are the symptoms"
+        },
+        {
+          "text": "what are the symptoms I should look out for"
+        },
+        {
+          "text": "what are the symptoms of coronavirus"
+        },
+        {
+          "text": "what are the symptoms of COVID-19"
+        },
+        {
+          "text": "What are the symptoms of covid?"
+        },
+        {
+          "text": "What are the symptoms of the disease?"
+        },
+        {
+          "text": "What are the symptoms?"
+        },
+        {
+          "text": "what are the types of symptoms"
+        },
+        {
+          "text": "what symptoms are typical with this disease"
+        },
+        {
+          "text": "What to do if I think I have covid?"
+        },
+        {
+          "text": "Will I poop a lot if I have the virus?"
+        },
+        {
+          "text": "Will I throw up if I have the virus?"
+        },
+        {
+          "text": "Will my head hurt if I have covid 19?"
+        }
+      ],
+      "description": "Symptoms of Covid-19."
+    },
+    {
+      "intent": "COVID_Govt_Emergency",
+      "examples": [
+        {
+          "text": "What does a state of emergency mean?"
+        },
+        {
+          "text": "When will the national emergency end?"
+        },
+        {
+          "text": "What are the crisis measures currently in place?"
+        },
+        {
+          "text": "Tell me about the Coronavirus response"
+        },
+        {
+          "text": "Is there a nationwide curfew?"
+        },
+        {
+          "text": "Is the US well prepared for covid 19"
+        },
+        {
+          "text": "is the government ready for covid"
+        },
+        {
+          "text": "Is the government legally allowed to close shops and restaurants?"
+        },
+        {
+          "text": "How long will the state of emergency last?"
+        },
+        {
+          "text": "How long has the national emergency been in place?"
+        },
+        {
+          "text": "govt emergency"
+        },
+        {
+          "text": "covid emergency"
+        },
+        {
+          "text": "How is the US government addressing the spread of covid-19?"
+        },
+        {
+          "text": "How is the United States prepared for the spread of covid 19?"
+        },
+        {
+          "text": "How does the state of emergency affect me?"
+        },
+        {
+          "text": "Can the government close public places?"
+        },
+        {
+          "text": "A national emergency was declared in the United States. What does this mean?"
+        },
+        {
+          "text": "What has our government already done to reduce the risk of spreading the disease"
+        },
+        {
+          "text": "What is a national emergency?"
+        },
+        {
+          "text": "What is the Government doing about Covid?"
+        },
+        {
+          "text": "What measurements is the government taking?"
+        },
+        {
+          "text": "What measures is the US taking against covid-19?"
+        }
+      ],
+      "description": "Government readiness questions."
+    },
+    {
+      "intent": "World_count",
+      "examples": [
+        {
+          "text": "how many people are sick in the US?"
+        },
+        {
+          "text": "how many current cases are there in Illinois"
+        },
+        {
+          "text": "how many people have contracted the virus in pennysylvania"
+        },
+        {
+          "text": "Which countries has covid-19 been detected in?"
+        },
+        {
+          "text": "How many people have covid-19 in the whole world?"
+        },
+        {
+          "text": "How many people are sick throughout the world?"
+        },
+        {
+          "text": "Does MA have a confirmed COVID case?"
+        },
+        {
+          "text": "How many cases of COVID-19 are in the US?"
+        },
+        {
+          "text": "how many cases are there in Texas?"
+        },
+        {
+          "text": "how many people in texas have corona virus?"
+        },
+        {
+          "text": "How many people are infected in Illinois?"
+        },
+        {
+          "text": "Top 10 cases in the world"
+        },
+        {
+          "text": "world cases"
+        },
+        {
+          "text": "world count"
+        },
+        {
+          "text": "how many ppl are infected in the us?"
+        },
+        {
+          "text": "How many folks in Texas are infected?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Tomatoes",
+      "examples": [
+        {
+          "text": "tomato steps"
+        },
+        {
+          "text": "tomato"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "climatic_conditions",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "COVID_Treatment_Info",
+      "examples": [
+        {
+          "text": "Can I lower my temperature using medication?"
+        },
+        {
+          "text": "Can I take ibuprofen if I have corona virus?"
+        },
+        {
+          "text": "what kind of medicine should I take"
+        },
+        {
+          "text": "What medicine should I avoid taking if I have coronavirus"
+        },
+        {
+          "text": "Can medication be used to reduce fever?"
+        },
+        {
+          "text": "What medicine should I take for COVID 19"
+        },
+        {
+          "text": "what medicine work best for treatment ?"
+        },
+        {
+          "text": "How do we treat covid?"
+        },
+        {
+          "text": "How do I treat coronavirus?"
+        },
+        {
+          "text": "How can I lower my temperature if I have the coronavirus?"
+        },
+        {
+          "text": "can medication reduce fever caused by a possible covid infection?"
+        },
+        {
+          "text": "what medicine should I be taking for Covid 19"
+        },
+        {
+          "text": "How to treat covid?"
+        },
+        {
+          "text": "I heard about a medication for coronavirus treatment"
+        },
+        {
+          "text": "Is there a medication that can help me feel better?"
+        },
+        {
+          "text": "Is there a medication to reduce temperature with covid-19?"
+        },
+        {
+          "text": "What is the treatment for covid-19?"
+        },
+        {
+          "text": "What is the treatment for this disease?"
+        },
+        {
+          "text": "Medication that helps with coronavirus"
+        },
+        {
+          "text": "what medicines work best"
+        },
+        {
+          "text": "what medicines should I take if I have coronavirus"
+        },
+        {
+          "text": "Should I take Theraflu?"
+        },
+        {
+          "text": "best vitamin to take"
+        }
+      ],
+      "description": "How to treat Covid-19."
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/sn9582%40srmist.edu.in_dev/farmer/Farmer%20Details.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Please try again later"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1593759868897",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1593759885104",
+      "previous_sibling": "response_9_1593759882600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "\"<?$webhook_result_1.passages[0].passage_text?>\"",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Buckingham_Canal_near_KL_University.JPG/330px-Buckingham_Canal_near_KL_University.JPG",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_1_1593759868897",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_9_1593759882600"
+    },
+    {
+      "type": "standard",
+      "title": "World cases",
+      "output": {
+        "generic": [
+          {
+            "title": "Highest Number of covid-19 cases in the world respectively as seen in the image(Latest Updated by July)",
+            "source": "https://static.toiimg.com/thumb/imgsize-297778,msid-76885880,width-500,resizemode-4/76885880.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#World_count",
+      "dialog_node": "node_1_1594366633155",
+      "previous_sibling": "node_3_1594365105949"
+    },
+    {
+      "type": "standard",
+      "title": "what is covid",
+      "output": {
+        "generic": [
+          {
+            "title": "Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.  Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.",
+            "source": "https://img.medscapestatic.com/pi/features/slideshow-slide/covid-19-infographics-6012689/fig1.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Description",
+      "dialog_node": "node_3_1594375196417",
+      "previous_sibling": "node_1_1594367861537"
+    },
+    {
+      "type": "standard",
+      "title": "greetings",
+      "output": {
+        "generic": [
+          {
+            "title": "Hey! Lets get Started ",
+            "source": "https://ak.picdn.net/shutterstock/videos/1009619249/thumb/5.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_9_1593704318909",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "State",
+      "output": {
+        "generic": [
+          {
+            "title": "Punjab- Hari Singh || UP- Mohan Yadav || Jharkhand- Rajpal Seth || Tamil Nadu- Sachin Iyer || Assam- Himanta Sarma   ",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Buckingham_Canal_near_KL_University.JPG/330px-Buckingham_Canal_near_KL_University.JPG",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#state",
+      "dialog_node": "node_1_1593686908832",
+      "previous_sibling": "node_10_1593686756117"
+    },
+    {
+      "type": "standard",
+      "title": "comunity",
+      "output": {
+        "generic": [
+          {
+            "title": "Since Pandemic has begun, the situation has become very risky and volatile, If possible we can help our community and join our efforts to follow the measures",
+            "source": "https://www.eurocoop.coop/uploads/gallery/COVID-19/CCU%20COVID%20Campaign%20Tagline.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Unemployment_Application",
+      "dialog_node": "node_5_1594378891104",
+      "previous_sibling": "node_5_1594377897478"
+    },
+    {
+      "type": "standard",
+      "title": "Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ludhiana- Hari singh "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Gorakhpur- Mohan Yadav "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Ranchi- Rajpal Seth "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Chennai- Sachin Iyer "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Guwahati- Himanta Sarma "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#location",
+      "dialog_node": "node_5_1593686932995",
+      "previous_sibling": "node_1_1593686908832"
+    },
+    {
+      "type": "standard",
+      "title": "Wheat",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝗲𝗻𝘀𝘂𝗿𝗲 𝗪𝗵𝗲𝗮𝘁 𝗖𝗿𝗼𝗽 𝗦𝗮𝗳𝗲𝘁𝘆\nStep 1: controlled climate, including cooling and aeration to reduce insect reproductive rate and humidity;\nStep 2: controlled and airtight storage atmospheres;\nStep 3: heat treatment (more than 60°C) to disinfest grain;\nStep 4: physical barriers to protect uninfested grain;\nStep 5: fumigation with penetrating gases;\nStep 6: contact insecticides to control flying insects;\nStep 7: admixing an insecticide or grain protectant;\nStep 8: trapping to control rodents;\nStep 9: resistant crop cultivars;\nStep 10: statutory regulations affecting the quarantine or control of storage insects."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Wheat",
+      "dialog_node": "node_8_1593757843244",
+      "previous_sibling": "node_1_1594389260615"
+    },
+    {
+      "type": "standard",
+      "title": "Floods",
+      "output": {
+        "generic": [
+          {
+            "title": "𝗙𝗮𝗿𝗺𝗲𝗿𝘀 𝗰𝗮𝗻 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗳l𝗼𝗼𝗱 𝗽𝗿𝗲𝗰𝗮𝘂𝘁𝗶𝗼𝗻𝘀 1)Do not use produce from plants that have yellowed. 2)Discard vegetable crops flooded with off-farm water that may have been contaminated, 3)particularly leafy vegetable crops. 4)Wash vegetables thoroughly before packing. Facts- after floods or high rainfall, vegetable crops may become a risk to food safety, even if they look healthy.",
+            "source": "https://www.mapsofindia.com/maps/india/climaticregions.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Flood",
+      "dialog_node": "node_9_1593707829140",
+      "previous_sibling": "node_3_1593765720599"
+    },
+    {
+      "type": "standard",
+      "title": "covid medicines/vaccines",
+      "output": {
+        "generic": [
+          {
+            "title": "There are no Medicines or Vaccines for covid-19 presently. However the whole world is trying to make the medicine/vaccine. None have been approved as of now. All the proposed medicines/vaccines are at development/trial stages.",
+            "source": "https://www.gavi.org/sites/default/files/2020-06/COVID-19-Vaccine-race-30062020.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Treatment_Vaccine",
+      "dialog_node": "node_1_1594367861537",
+      "previous_sibling": "node_1_1594365997581"
+    },
+    {
+      "type": "standard",
+      "title": "highest case",
+      "output": {
+        "generic": [
+          {
+            "title": "The highest number of cases are seen in the Image(latest update by july)",
+            "source": "https://www.deccanherald.com/sites/dh/files/article_images/2020/07/05/EcJWwOuVAAEph5P.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Case_Count",
+      "dialog_node": "node_3_1594365105949",
+      "previous_sibling": "node_7_1594362386155"
+    },
+    {
+      "type": "standard",
+      "title": "measures",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝗠𝗲𝗮𝘀𝘂𝗿𝗲𝘀- There are four key steps that state governments, supported by the Centre, need to immediately prioritise.  1)Redirect farm supply chains to local areas 2)Move away from cash crops 3)Increasing allocations for direct transfers 4)Set up mobile food vans"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Measures",
+      "dialog_node": "node_10_1593758911866",
+      "previous_sibling": "node_7_1593758527031"
+    },
+    {
+      "type": "standard",
+      "title": "weather",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sunny- Ludhiana "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "sunny- Gorakhpur "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "cloudy- Ranchi "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "sunny- Chennai"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "rainy- Guwahati "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#weather",
+      "dialog_node": "node_6_1593686953252",
+      "previous_sibling": "node_5_1593686932995"
+    },
+    {
+      "type": "standard",
+      "title": "Farmer",
+      "output": {
+        "generic": [
+          {
+            "title": "Some of the farmers are 1) Hari Singh 2)Mohan Yadav 3)Rajpal Seth 4)Sachin Iyer 5)Himanta Sarma ",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Agriculture_in_Vietnam_with_farmers.jpg/1200px-Agriculture_in_Vietnam_with_farmers.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Farmers_Name",
+      "dialog_node": "node_4_1593684564000",
+      "previous_sibling": "node_9_1593758389359"
+    },
+    {
+      "type": "standard",
+      "title": "Practices agriculture",
+      "output": {
+        "generic": [
+          {
+            "title": "Rotating crops and embracing diversity. ... Planting cover crops 2) Reducing or eliminating tillage. 3)  Applying integrated pest management (IPM). ..4) Integrating livestock and crops. 5) Adopting agroforestry practices. 6) Managing whole systems and landscapes.",
+            "source": "https://www.efma.com/assets/content/Credit_agricole_smart_farms.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#agriculture_practices",
+      "dialog_node": "node_5_1594386317233",
+      "previous_sibling": "node_9_1593756822711"
+    },
+    {
+      "type": "standard",
+      "title": "Crop type ",
+      "output": {
+        "generic": [
+          {
+            "title": "Wheat- Hari Singh || Barley- Mohan Yadav || Tomatoes- Rajpal Seth || Rice- Sachin Iyer || Rice- Himanta Sarma ",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Unload_wheat_by_the_combine_Claas_Lexion_584.jpg/720px-Unload_wheat_by_the_combine_Claas_Lexion_584.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#croptype",
+      "dialog_node": "node_10_1593686756117",
+      "previous_sibling": "node_7_1593686561868"
+    },
+    {
+      "type": "standard",
+      "title": "sustainability",
+      "output": {
+        "generic": [
+          {
+            "title": "The goal of sustainable agriculture is to meet society’s food and textile needs in the present without compromising the ability of future generations to meet their own needs. Some of them are 1) Addressing Food Insecurity 2)Energy Efficiency & Conservation 3) Organic Farming Agritourism 4) Food and Agricultural Employment 5)Precision Agriculture (SSM) Agroforestry\tFood Labeling/Certifications\t6) Soil Nutrient Management 7)Biofuels 8)Food Waste Management",
+            "source": "https://img.favpng.com/11/9/10/sustainability-food-and-farming-sustainable-agriculture-sustainable-development-png-favpng-qtnz7ZEJiqXNDy1XiWW2Qj9xx.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#sustainability",
+      "dialog_node": "node_1_1594388342442",
+      "previous_sibling": "node_5_1594386317233"
+    },
+    {
+      "type": "standard",
+      "title": "covid testing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To learn if you have a current infection, viral tests are used. Most people have mild illness and can recover at home without medical care. Contact your healthcare provider if your symptoms are getting worse or if you have questions about your health.​​\nDecisions about testing are made by state and localexternal icon health departments or healthcare providers. You can visit your state or localexternal icon health department’s website to look for the latest local information on testing.\nIf you have symptoms of COVID-19 and want to get tested, call your healthcare provider first.\nIf you have symptoms of COVID-19 and are not tested, it is important to stay home. What to do if you are sick.\nIf you have symptoms of COVID-19 and are not tested, it is important to stay home. Learn what to do if you are sick."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#COVID_Testing_Locations",
+      "dialog_node": "node_9_1594039284158",
+      "previous_sibling": "node_4_1594376565783"
+    },
+    {
+      "type": "standard",
+      "title": "corona symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.\n\nMost common symptoms:\n\nfever.\ndry cough.\ntiredness.\nLess common symptoms:\n\naches and pains.\nsore throat.\ndiarrhoea.\nconjunctivitis.\nheadache.\nloss of taste or smell.\na rash on skin, or discolouration of fingers or toes.\nSerious symptoms:\n\ndifficulty breathing or shortness of breath.\nchest pain or pressure.\nloss of speech or movement.\nSeek immediate medical attention if you have serious symptoms.  Always call before visiting your doctor or health facility. \n\nPeople with mild symptoms who are otherwise healthy should manage their symptoms at home. \n\nOn average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://www.businessinsider.in/photo/74960334/how-to-check-coronavirus-symptoms-at-home.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Symptoms",
+      "dialog_node": "node_2_1594375895368",
+      "previous_sibling": "node_3_1594375196417"
+    },
+    {
+      "type": "standard",
+      "title": "Plot size(Hectares)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "5 hectres- Hari Singh"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "2.25 hectres- Mohan Yadav "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "4.6 hectres- Rajpal Seth "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "3.54 hectres- Sachin Iyer "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "1.15 hectres- Himanta sarma "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#land",
+      "dialog_node": "node_7_1593686365797",
+      "previous_sibling": "node_4_1593684564000"
+    },
+    {
+      "type": "standard",
+      "title": "Quantity ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "15 tons- Hari Singh || 7 tons- Mohan Yadav || 10 tons- Rajpal Seth || 12 tons- Sachin Iyer || 6 tons- Himanta Sarma "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#quantity",
+      "dialog_node": "node_7_1593686561868",
+      "previous_sibling": "node_7_1593686365797"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_5_1593788692225",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "bye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "See Ya! Have a great day!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Bye",
+      "dialog_node": "node_5_1593788692225",
+      "previous_sibling": "node_5_1594378891104"
+    },
+    {
+      "type": "standard",
+      "title": "barley",
+      "output": {
+        "generic": [
+          {
+            "title": "1)Soil Requirement 2)Land Preparation 3)Manure and Fertilizers 4)Seeds and Sowing 5)Seed treatment 6)Irrigation 8)Harvesting and Yield",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Barley.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#barley",
+      "dialog_node": "node_9_1593758389359",
+      "previous_sibling": "node_7_1593758270479"
+    },
+    {
+      "type": "standard",
+      "title": "tomato",
+      "output": {
+        "generic": [
+          {
+            "title": "𝐒𝐭𝐞𝐩𝐬 𝐭𝐨 𝐞𝐧𝐬𝐮𝐫𝐞 𝐓𝐨𝐦𝐚𝐭𝐨𝐞𝐬 𝐂𝐫𝐨𝐩 𝐒𝐚𝐟𝐞𝐭𝐲 Step 1: Make a Clean Start Step 2:Label Your Containers Step 3: Plant Tomato Seeds Dry Step 4: Water Wisely Step 5:Tomatoes Need Warmth and Light Step 6: Pot On in Stages Step 7: Handle Tomato Seedlings With Care Step 8: Don’t Rush Hardening Off",
+            "source": "https://image.shutterstock.com/image-photo/beautiful-red-ripe-heirloom-tomatoes-260nw-776379370.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Tomatoes",
+      "dialog_node": "node_7_1593758270479",
+      "previous_sibling": "node_8_1593757843244"
+    },
+    {
+      "type": "standard",
+      "title": "Covidlocations",
+      "output": {
+        "generic": [
+          {
+            "title": "Some of the Major states that are affected by covid-19 highest as follows are : 1)Maharashtra 2) Tamil Nadu 3)Delhi 4) Gujarat 5) Uttar Pradesh 6) Karnataka 7) Telangana 8) West Bengal",
+            "source": "https://ichef.bbci.co.uk/news/410/cpsprodpb/180EC/production/_113304589_india-map-corona-cases-07july-nc.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#covidlocation",
+      "dialog_node": "node_7_1594362386155",
+      "previous_sibling": "node_10_1593758911866"
+    },
+    {
+      "type": "standard",
+      "title": "Discovery",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Discovery",
+      "dialog_node": "node_1_1593759868897",
+      "previous_sibling": "node_6_1593686953252"
+    },
+    {
+      "type": "standard",
+      "title": "prevention",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To prevent infection and to slow transmission of COVID-19, do the following:\n\nWash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\nMaintain at least 1 metre distance between you and people coughing or sneezing.\nAvoid touching your face.\nCover your mouth and nose when coughing or sneezing.\nStay home if you feel unwell.\nRefrain from smoking and other activities that weaken the lungs.\nPractice physical distancing by avoiding unnecessary travel and staying away from large groups of people."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://osha.europa.eu/sites/default/files/corona_info_0.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Prevention",
+      "dialog_node": "node_4_1594376565783",
+      "previous_sibling": "node_2_1594375895368"
+    },
+    {
+      "type": "standard",
+      "title": "Facts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝕊𝕠𝕞𝕖 𝔽𝕒𝕔𝕥𝕤\n1. The World Food Summit of 1996 defined that “food security exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food that meets their dietary needs and preferences for an active life.”  \n2. Food security is built on four pillars: food availability; food access; food use; and food stability. When one of these pillars is unstable or non-existent, people can live in a state of food insecurity.\n3. 500 million small farms provide up to 80% of food for most of the developing world. An estimated 400 million smallholder farmers are undernourished.\n4. In the world's main tea producing regions more than 30% of children are malnourished. In Malawi, this rises to 50%. \n5. Poverty and drought are the most common causes of food shortages in the world.\n6. Smallholder coffee farmers in three Central American countries were found to have no guarantee of food security for 3-4 months every year."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FUN_Facts",
+      "dialog_node": "node_7_1593758527031",
+      "previous_sibling": "node_1_1593759868897"
+    },
+    {
+      "type": "standard",
+      "title": "covid emergency",
+      "output": {
+        "generic": [
+          {
+            "title": "It is requested to Follow these protocols",
+            "source": "https://www.teignmouthprimary.co.uk/wp-content/uploads/2020/03/AA64CF44-7FFA-46A2-9CC7-A64576ED2F26.jpeg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Govt_Emergency",
+      "dialog_node": "node_5_1594377897478",
+      "previous_sibling": "node_9_1594039284158"
+    },
+    {
+      "type": "standard",
+      "title": "rice",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝗲𝗻𝘀𝘂𝗿𝗲 𝗥𝗶𝗰𝗲 𝗰𝗿𝗼𝗽 𝗦𝗮𝗳𝗲𝘁𝘆\nStep 1. Use a crop calendar \nStep 2. Choose the best variety\nStep 3. Use high quality seed\nStep 4. Prepare and level the fields well\nStep 5: Plant on time \nStep 6:  Weed early\nStep 7. Fertilize to maximize returns\nStep 8. Use water efficiently\nStep 9. Control pests and diseases effectively\nStep 10. Harvest on time\nStep 11. Store safely\nStep 12. Mill efficiently\nStep 13. Understand the market\n𝗗𝘂𝗿𝗶𝗻𝗴 𝗖𝗼𝘃𝗶𝗱-𝟭𝟵 𝘀𝗼𝗺𝗲 𝘀𝘁𝗲𝗽𝘀 𝘁𝗼 𝗯𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗲𝗱\nThe need for provisioning cheap credit and reaching out to farmers\nDirect income support \nRe-prioritise actions   \nProcure at the doorstep"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Rice",
+      "dialog_node": "node_9_1593756822711",
+      "previous_sibling": "node_9_1593707829140"
+    },
+    {
+      "type": "standard",
+      "title": "Help",
+      "output": {
+        "generic": [
+          {
+            "title": "Hello there! We can help you regarding any query that you want to know about the Covid-19/ we are fully functional. We also give information about climatic warnings, crops to be yielded and help farmers know about basic requirements and sustainability ",
+            "source": "http://biharpolice.bih.nic.in/Image/HELP.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_3_1593765720599",
+      "previous_sibling": "node_9_1593704318909"
+    },
+    {
+      "type": "standard",
+      "title": "benefits of sustainable",
+      "output": {
+        "generic": [
+          {
+            "title": "1. Conserving the environment and preventing pollution By adopting sustainable practices, farmers will reduce their reliance on nonrenewable energy, reduce chemical use and save scarce resources. 2. Reducing costs and focus on profits IoT data from sensors installed in everything from seed drills, sprayers to drones satellite imagery. 3. Improving food production without being wasteful Today, there is an opportunity to develop agri practices from a pure production standpoint, and sustainable agriculture",
+            "source": "https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/06/weather-blog-1128102492-990x498-1.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#benefits_sustainable",
+      "dialog_node": "node_1_1594389260615",
+      "previous_sibling": "node_1_1594388342442"
+    },
+    {
+      "type": "standard",
+      "title": "Cleaning disinfection",
+      "output": {
+        "generic": [
+          {
+            "title": "Some of the Steps that can be followed are seen in the image",
+            "source": "https://ehrs.upenn.edu/sites/default/files/inline-images/Screen%20Shot%202020-04-03%20at%208.58.56%20AM.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#COVID_Cleaning_Disinfecting",
+      "dialog_node": "node_1_1594365997581",
+      "previous_sibling": "node_1_1594366633155"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello there! I can help you with giving you details about Farmers/crops/food security/flood warning/facts/measures/Covid Test."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Farmer Details",
+  "language": "en",
+  "description": ""
+}
