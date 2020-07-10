@@ -26,5 +26,21 @@ Node-Red Dashboard link after deploying : https://dev-works-app12.eu-gb.mybluemi
 Watson Assistan Preview Link : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=dae25a99-7598-44ef-bd1b-ed636e7f63ee&serviceInstanceID=26fd3ef0-c511-4f8b-aa3e-c0d9bb5c6b7c
 
 
+Introduction Tab
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%201.png)
+
+Covid/Agriculture Tab (BOT)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%202.png)
+
+Registration and Visual Recognition Tab
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%203.png)
+
+Crop Prices Tab
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%204.png)
+
+Temperature Indicators
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%205.png)
+
+
 Created BY : Shreekar Kolanu 
 
