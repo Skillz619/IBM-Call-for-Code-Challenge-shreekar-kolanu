@@ -51,7 +51,7 @@ Print Receipt Button Prints the Details(Uploaded the Printed pdf for ref. in the
 Food Security Hotspot Locator
 ![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-6.png)
 
-Temperatur Indicators and Storage Locators(Controlled/Not Controlled)
+Temperature Indicators and Storage Locators(Controlled/Not Controlled)
 ![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-7.png)
 
 
