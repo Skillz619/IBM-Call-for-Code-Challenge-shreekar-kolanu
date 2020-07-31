@@ -16,6 +16,15 @@ Project requirements:
 9.Watson Studio(jupyter notebook)
 10.Watson Visual Recognition
 
+Food Security Hotspot Locator
+Technology Used:
+HTML
+CSS
+JavaScript
+Google Maps API
+
+Repository Link : https://github.com/Skillz619/Food-Security-Hotspot-Locators-Shreekar-Kolanu
+
 In Watson Discovery I have added  User Manuals for the Discovery .
 I have also created an Excel Sheet for the farmers Database.
 
