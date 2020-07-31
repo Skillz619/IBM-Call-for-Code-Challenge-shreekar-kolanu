@@ -25,22 +25,34 @@ Node-Red Dashboard link after deploying : https://dev-works-app12.eu-gb.mybluemi
 
 Watson Assistan Preview Link : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=dae25a99-7598-44ef-bd1b-ed636e7f63ee&serviceInstanceID=26fd3ef0-c511-4f8b-aa3e-c0d9bb5c6b7c
 
-Youtube Video Link : https://www.youtube.com/watch?v=p8ArbPbujoE
+
 
 Introduction Tab
-![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%201.png)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-1.png)
 
 Covid/Agriculture Tab (BOT)
-![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%202.png)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-2.png)
 
 Registration and Visual Recognition Tab
-![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%203.png)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-3.png)
 
-Crop Prices Tab
-![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%204.png)
+Crop Prices Tab(Without Price generation)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-4%20p1.png)
 
-Temperature Indicators
-![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%205.png)
+Crop Prices Tab(With Price generation)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-4%20p2.png)
+
+Print Receipt
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-5.png)
+
+Print Receipt Button Prints the Details(Uploaded the Printed pdf for ref. in the repository)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-5%20print.png)
+
+Food Security Hotspot Locator
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-6.png)
+
+Temperatur Indicators and Storage Locators(Controlled/Not Controlled)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-7.png)
 
 
 Created BY : Shreekar Kolanu 
