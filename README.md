@@ -57,6 +57,10 @@ Covid/Agriculture Tab (BOT)
 Registration and Visual Recognition Tab
 ![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-3.png)
 
+Govt. Admin Login Tab
+
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-login.png)
+
 Crop Prices Tab(Without Price generation)
 ![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab-4%20p1.png)
 
