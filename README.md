@@ -1,5 +1,5 @@
 # IBM Call For Code Challenge 2020
-#IBMHACKCHALLENGE2020 . This is repository build with the help of Watson Assistant, Discovery, Cloud Function,Watson studio,Watson IOT, Visual Recognition and Node Red app of IBM Cloud.
+#IBMHACKCHALLENGE2020 . This is repository build with the help of Watson Assistant, Discovery, Cloud Function,Watson studio,Watson IOT, Visual Recognition and IBM Cloud.
 
 Project Description : This project is a total integration of multiple computing topics to support the situation consisting of crisis management of covid-19 and agriculture sustainability to support entity essential for support of life in this period of pandemic.Covid-19 has a severe impact on the people and agriculture and it’s whole production and supply chain which if not taken care could have adverse affect on the larger population of this country. We combine Artificial Intelligence, Cloud, database and Machine Learning in a single api to ensure proper communication during an emergency, ways to improve remote learning, and how to inspire cooperative local communities and Agriculture sustainability running of the food chain especially the production through farming which is the root of food production and supply and also the storage in godowns/storage units.
 
