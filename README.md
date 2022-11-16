@@ -42,8 +42,6 @@ I have also created an Excel Sheet for the farmers Database.
 
 
 
-<h2>**Node-Red Dashboard link: https://dev-works-app12.eu-gb.mybluemix.net/ui</h2>
-
 Watson Assistan Preview Link : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=dae25a99-7598-44ef-bd1b-ed636e7f63ee&serviceInstanceID=26fd3ef0-c511-4f8b-aa3e-c0d9bb5c6b7c
 
 
